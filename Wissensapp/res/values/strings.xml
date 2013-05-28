@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wissensapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="Intro">Willkommen zur  Test-Version der Wissensapp. Bitte wähle einen Modus.</string>
+    <string name="title_activity_intro_fragment">IntroFragment</string>
+    
+    <string name="Q_11_1">Q 11/1</string>
+    <string name="Q_11_2">Q 11/2</string>
+    <string name="Q_10">10.</string>
+    <string name="Q_9">9.</string>
+    
+    <string name="Quiz">Quiz</string>
+    <string name="Stoffsammlung">Stoffsammlung</string>
+    <string name="Sonstiges">Sonstiges</string>
+    
+    <string name="hello_world">Hello World!</string>
+    <string name="title_activity_subject_fragment">SubjectFragment</string>
+
+</resources>
